@@ -1,0 +1,36 @@
+
+h2 {
+    color: #333;
+}
+
+.container.post-detail{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.post-detail {
+    margin-top: 20px;
+}
+
+
+.container > hr {
+    border-color: #999;
+}
+
+
+#post-detail-title {
+    font-size: 24px;
+}
+
+
+.btn.back-button:hover {
+    background-color: #4285f4;
+}
+
+
+.container::after {
+    content: "";
+    display: table;
+    clear: both;
+}

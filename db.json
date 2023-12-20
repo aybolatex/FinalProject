@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "title": "Top 10 UI/UX Design Practices",
+      "category": "UI/UX",
+      "description": "Discover the latest trends and best practices in UI/UX design. In this post, we'll explore key aspects of creating engaging user interfaces.",
+      "createdAt": "18.12.2023, 06:05:58",
+      "id": 1,
+      "alreadyRead": true,
+      "subTitle": "Mastering User-Centric Design",
+      "author": "UI/UX Expert"
+    },
+    {
+      "title": "Evolution of UI/UX: New Technologies and Opportunities",
+      "category": "UI/UX",
+      "description": "Explore the latest technologies and opportunities shaping the future of UI/UX design. In this post, we'll discuss key trends and innovations in user experience.",
+      "createdAt": "18.12.2023, 06:06:40",
+      "id": 2,
+      "alreadyRead": true,
+      "subTitle": "Embracing Technological Shifts",
+      "author": "Tech Visionary"
+    },
+    {
+      "title": "Introduction to React: Basics and Applications",
+      "category": "React",
+      "description": "Dive into the world of React and learn the basics of development using this popular JavaScript library. In this post, we'll cover the key principles and capabilities of React.",
+      "createdAt": "18.12.2023, 15:48:15",
+      "updatedAt": "",
+      "id": 3,
+      "alreadyRead": true,
+      "subTitle": "Getting Started with React",
+      "author": "React Enthusiast"
+    },
+    {
+      "title": "React Development: Best Practices and Tips",
+      "category": "React",
+      "description": "Explore the best practices and tips for development using React. In this post, we'll share experiences and recommendations for effective React development.",
+      "createdAt": "18.12.2023, 18:21:15",
+      "updatedAt": "",
+      "subTitle": "Optimizing Your React Workflow",
+      "author": "React Pro"
+    },
+    {
+      "title": "The Future of AI in Software Development",
+      "category": "AI/ML",
+      "description": "Examine the role of artificial intelligence in shaping the future of software development. This post explores the potential impact and advancements in AI/ML.",
+      "createdAt": "19.12.2023, 10:30:45",
+      "id": 5,
+      "alreadyRead": false,
+      "subTitle": "Unleashing AI's Potential",
+      "author": "AI Pioneer"
+    },
+    {
+      "title": "Cybersecurity: Key Challenges and Solutions",
+      "category": "Security",
+      "description": "Delve into the world of cybersecurity and discover the key challenges faced by organizations today. This post provides insights into effective security solutions.",
+      "createdAt": "19.12.2023, 14:15:20",
+      "id": 6,
+      "alreadyRead": false,
+      "subTitle": "Securing the Digital Frontier",
+      "author": "Security Expert"
+    },
+    {
+      "title": "Web Development Trends: What to Expect in 2024",
+      "category": "Web Development",
+      "description": "Explore the upcoming trends and innovations in web development. This post covers key technologies and practices that will shape the industry in 2024.",
+      "createdAt": "20.12.2023, 09:45:30",
+      "id": 7,
+      "alreadyRead": false,
+      "subTitle": "Anticipating the Future of Web",
+      "author": "Web Trends Analyst"
+    },
+    {
+      "title": "Mobile App Design: Creating User-Centric Experiences",
+      "category": "Mobile App Development",
+      "description": "Learn how to design mobile apps with a focus on user-centric experiences. This post provides tips and strategies for creating engaging mobile interfaces.",
+      "createdAt": "20.12.2023, 13:20:15",
+      "id": 8,
+      "alreadyRead": false,
+      "subTitle": "Crafting Intuitive Mobile Interfaces",
+      "author": "Mobile UX Designer"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "IT_Blogger"
+  }
+}
